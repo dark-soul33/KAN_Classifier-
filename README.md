@@ -110,7 +110,3 @@ If using this project, please cite the original paper and repos accordingly.
 ## 📬 Contact
 
 Questions or suggestions? Please open an issue or contribute via pull request.
-
----
-
-**License**: MIT
